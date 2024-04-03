@@ -1,0 +1,6 @@
+C:\Users\funandgames\source\repos\student-materials\Assignments\Ex1 - Flocking\Source\Core\bin\Debug\CoreAI.dll
+C:\Users\funandgames\source\repos\student-materials\Assignments\Ex1 - Flocking\Source\Core\bin\Debug\CoreAI.pdb
+C:\Users\funandgames\source\repos\student-materials\Assignments\Ex1 - Flocking\Source\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\funandgames\source\repos\student-materials\Assignments\Ex1 - Flocking\Source\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\funandgames\source\repos\student-materials\Assignments\Ex1 - Flocking\Source\Core\obj\Debug\CoreAI.dll
+C:\Users\funandgames\source\repos\student-materials\Assignments\Ex1 - Flocking\Source\Core\obj\Debug\CoreAI.pdb
